@@ -1,6 +1,8 @@
 # AAS_ComputerVision
 Nama: Riski Yosepha Sihombing
+
 NIM  : 4222201065
+
 Kelas : Robotika B Pagi
 
 #OCR Plat Nomor Kendaraan Indonesia dengan VLM (Visual Language Model)
