@@ -10,9 +10,13 @@ Struktur Proyek:
 project-root/
 
 ├── test/ # Folder berisi gambar .jpg dan label .txt
+
 ├── labels/ # Folder output label ground truth
+
 │ └── ground_truth.csv
+
 ├── generate.py # Membuat CSV ground truth
+
 └── ocr_eval.py # Mengirim gambar ke model dan menghitung CER
 
 #Tahap Pengerjaan
