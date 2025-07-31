@@ -8,6 +8,7 @@ Proyek ini bertujuan untuk melakukan Optical Character Recognition (OCR) pada da
 
 Struktur Proyek:
 project-root/
+
 ├── test/ # Folder berisi gambar .jpg dan label .txt
 ├── labels/ # Folder output label ground truth
 │ └── ground_truth.csv
